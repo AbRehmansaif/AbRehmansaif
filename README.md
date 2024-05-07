@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">I am a student eager to learn new technologies and implement them. /n  "Learning is not attained by chance, it must be sought for with ardor and attended to with diligence." - Abigail Adams</h3>
 <img align="right" alt"coding" width"400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrehmansaif&label=Profile%20views&color=0e75b6&style=flat" alt="abrehmansaif" /> </p>
