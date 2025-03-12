@@ -19,8 +19,10 @@ I am a student eager to learn new technologies and implement them.<br>"Learning 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 # 📊 GitHub Stats:
+![GitHub Streak](https://img.shields.io/badge/Daily%20Streak-10-blue?style=for-the-badge)
 ![](https://github-readme-stats.vercel.app/api?username=AbRehmansaif&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbRehmansaif&theme=dark&hide_border=false)<br/>
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbRehmansaif&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
